@@ -7,7 +7,7 @@ Assignment: week 13
 
 ### File Description
 accessControl.h – header file that contains class declarations;<br>
-Week13.cpp – source file that implements the functions and runs the program
+Week 13.cpp – source file that implements the functions and runs the program
 
 ### Program Description
 This program proves:<br>
