@@ -17,7 +17,7 @@ The CSV file must be placed in the same directory as the .cpp file before execut
 ### Program Description
 This program proves the use of:<br>
 1.File Input – Reads data from an external .csv file using ifstream;<br>
-2.String Processing – Uses `stringstream` to parse comma-separated values;<br>
+2.String Processing – Uses stringstream to parse comma-separated values;<br>
 3.Classe – Stores Pokemon information in a C++ class with 5 attributes;<br>
 4.Vectors – Dynamically stores multiple objects using vector<Pokemon>;<br>
 5.Readable Output – Displays the first 10 Pokémon entries in a clear and organized format.
@@ -29,9 +29,9 @@ The program performs the following functions:<br>
 3.Extracts the selected 5 fields from each Pokémon entry;<br>
 4.Converts numeric values from strings to integers using stoi();<br>
 5.Creates a Pokemon object for each entry and stores it inside a vector;<br>
-6.Displays the first 10 Pokémon data objects using the `display()` member function.
+6.Displays the first 10 Pokémon data objects using the display() member function.
 
-This program reads a Pokémon data from a Kaggle CSV file and creates `Pokemon` objects to store their attributes, using file input, parsing, and a class structure to demonstrate external data processing in C++.
+This program reads a Pokémon data from a Kaggle CSV file and creates Pokemon objects to store their attributes, using file input, parsing, and a class structure to demonstrate external data processing in C++.
 
 This program demonstrates how external data can be processed and organized into C++ objects using CSV input and class-based data storage.
 
