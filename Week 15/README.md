@@ -1,12 +1,12 @@
-# Week 15
+# Week 14
 
 ## Author
 Name: Maokuan Zhang<br>
 Course: CIS25 Fall2025<br>
-Assignment: week 15
+Assignment: week 14
 
 ### File Description
-Week 15.cpp - source file that defines a `Product` class with private attributes, demonstrates the constructor and destructor, and prints product details to show object lifecycle behavior in C++.<br>
+Week 14.cpp - source file that defines a `Product` class with private attributes, demonstrates the constructor and destructor, and prints product details to show object lifecycle behavior in C++.<br>
 
 
 ### Program Description
