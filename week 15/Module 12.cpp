@@ -3,7 +3,7 @@
     The Public Dataset: pokemon_stats.csv (from Kaggle.com)
 
     This program demonstrates:
-    - File input from a real-world dataset (.csv file)
+    - File input from a Pokemon dataset (.csv file)
     - Using a class to load data
     - Extracting and using 5 fields from each row
     - Printing the first 10 entries in a readable format
@@ -35,7 +35,7 @@ public:
         defense = d;
     }
 
-    // Displays one Pok¨¦mon in readable format
+    // Displays one PokÂ¨Â¦mon in readable format
     void display() 
     {
         cout << "Name: " << name << " | Type: " << type1 << " | HP: " << hp << " | Attack: " << attack << " | Defense: " << defense << endl;
@@ -90,7 +90,7 @@ int main()
         pokemons.push_back(Pokemon(name, type1, hp, attack, defense));
     }
 
-    // Display the first 10 Pok¨¦mon loaded from the dataset
+    // Display the first 10 PokÂ¨Â¦mon loaded from the dataset
     cout << "\nDisplaying first 10 Pokemon from the dataset:\n" << endl;
     
 	// Loop to display up to 10 Pokemons
@@ -102,3 +102,4 @@ int main()
     file.close(); // Close file when done
     return 0;
 }
+
